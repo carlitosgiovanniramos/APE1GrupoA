@@ -3,8 +3,8 @@
 | :---: | :--- | :--- |
 | - [ ] | Definición del alcance | Carlos |
 | - [ ] | Definición de las tareas | Carlos |
-| - [ ] | Evaluación de Nielsen | Mela |
-| - [ ] | Evaluación de POUR | Mela |
+| - [X] | Evaluación de Nielsen | Mela |
+| - [] | Evaluación de POUR | Mela |
 | - [ ] | Pruebas | Alison |
 | - [ ] | Matriz de relación entre Nielsen y POUR | Henry |
 | - [ ] | Matriz integrada de hallazgos | Henry |
