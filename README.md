@@ -1,8 +1,8 @@
 ﻿# APE1GrupoA
 | Estado | Tarea | Encargado |
 | :---: | :--- | :--- |
-| - [ ] | Definición del alcance | Carlos |
-| - [ ] | Definición de las tareas | Carlos |
+| - [X] | Definición del alcance | Carlos |
+| - [X] | Definición de las tareas | Carlos |
 | - [X] | Evaluación de Nielsen | Mela |
 | - [] | Evaluación de POUR | Mela |
 | - [ ] | Pruebas | Alison |
